@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.1447ccf4.css",
-    "main.js": "./static/js/main.fc26a02e.js",
+    "main.css": "./static/css/main.7b7cc80c.css",
+    "main.js": "./static/js/main.a2711662.js",
     "static/js/787.e38c8483.chunk.js": "./static/js/787.e38c8483.chunk.js",
     "static/media/bolo-1.jpg": "./static/media/bolo-1.3aae4cf002959c16e2e4.jpg",
+    "static/media/mocinha.png": "./static/media/mocinha.d02eeba7b19b609b084b.png",
     "static/media/bolo-2.jpg": "./static/media/bolo-2.a1de08afc8e0ace7a4af.jpg",
     "static/media/Poppins-Thin.ttf": "./static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "./static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
@@ -13,16 +14,16 @@
     "static/media/Poppins-Bold.ttf": "./static/media/Poppins-Bold.404e299be26d78e66794.ttf",
     "static/media/Poppins-ExtraBold.ttf": "./static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
     "static/media/bolo-3.jpg": "./static/media/bolo-3.34e795fc7acae64160c5.jpg",
+    "static/media/logo.png": "./static/media/logo.a02bdc16f6883e57e050.png",
     "static/media/bolo-5.jpg": "./static/media/bolo-5.f21bf7a9cc2b44784b2c.jpg",
     "static/media/bolo-4.jpg": "./static/media/bolo-4.861dbf97689e41c85c36.jpg",
-    "static/media/logo.jpeg": "./static/media/logo.b7a572f6a1bfddfe114d.jpeg",
     "index.html": "./index.html",
-    "main.1447ccf4.css.map": "./static/css/main.1447ccf4.css.map",
-    "main.fc26a02e.js.map": "./static/js/main.fc26a02e.js.map",
+    "main.7b7cc80c.css.map": "./static/css/main.7b7cc80c.css.map",
+    "main.a2711662.js.map": "./static/js/main.a2711662.js.map",
     "787.e38c8483.chunk.js.map": "./static/js/787.e38c8483.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1447ccf4.css",
-    "static/js/main.fc26a02e.js"
+    "static/css/main.7b7cc80c.css",
+    "static/js/main.a2711662.js"
   ]
 }
