@@ -1,6 +1,17 @@
-{
-  "devDependencies": {
-    "@commitlint/cli": "^17.4.4",
-    "@commitlint/config-conventional": "^17.4.4"
+  {
+    "name": "lp-bolopote-site",
+    "version": "1.0.0",
+    "homepage": "https://lucasccgomes.github.io/meu-projeto",
+    "scripts": {
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build --404=index.html",
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "devDependencies": {
+      "@commitlint/cli": "^17.4.4",
+      "@commitlint/config-conventional": "^17.4.4"
+    }
   }
-}
